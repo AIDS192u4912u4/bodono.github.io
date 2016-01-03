@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Brendan O'Donoghue
+
+== Ph.D. Thesis
+:{[thesis/bod_thesis.pdf Suboptimal Control Policies via Convex Optimization]} B. O'Donoghue
+
+== Publications
+:{[publications/wireless.pdf Large-scale convex optimization for dense wireless cooperative networks]} Y. Shi, J. Zhang, B. O’Donoghue, and K. Letaief
+:{[http://www.stanford.edu/~boyd/papers/scs.html Operator splitting for conic optimization via homogeneous self-dual embedding]} B. O'Donoghue, E. Chu, N. Parikh, and S. Boyd
+:{[http://www.stanford.edu/~boyd/papers/pdos.html A primal-dual operator splitting method for conic optimization]} E. Chu, B. O'Donoghue, N. Parikh, and S. Boyd
+:{[http://www.stanford.edu/~boyd/papers/adp_iter_bellman.html Approximate dynamic programming via iterated Bellman Inequalities]} Y. Wang, B. O'Donoghue, and S. Boyd
+:{[http://www.stanford.edu/~boyd/papers/it_avf.html Iterated approximate value functions]} B. O'Donoghue, Y. Wang, and S. Boyd
+:{[http://www.stanford.edu/~boyd/papers/oper_splt_ctrl.html A splitting method for optimal control]} B. O'Donoghue, G. Stathopoulos, and S. Boyd
+:{[ftp://ftp.math.ucla.edu/pub/camreport/cam12-35.pdf Fast alternating direction optimization methods]} T. Goldstein, B. O'Donoghue, and S. Setzer
+:{[http://www.stanford.edu/~boyd/papers/port_opt_bound.html Performance bounds and suboptimal policies for multi-period investment]} S. Boyd, M. Mueller, B. O'Donoghue, and Y. Wang
+:{[publications/adap_restart.pdf Adaptive restart for accelerated gradient schemes]} B. O'Donoghue and E. J. Candès
+:{[publications/oplc.pdf A spread-return mean-reverting model for credit spread dynamics]} B. O'Donoghue, M. Peacock, J. Lee, and L. Capriotti
+:{[http://www.stanford.edu/~boyd/papers/min_max_adp.html Min-max approximate dynamic programming]} B. O'Donoghue, Y. Wang, and S. Boyd

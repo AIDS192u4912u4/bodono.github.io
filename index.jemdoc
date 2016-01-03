@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Brendan O'Donoghue
+
+~~~
+{}{img_left}{profile.jpg}{Brendan O'Donoghue}{200}(200}
+Brendan O'Donoghue, Ph.D. \n
+Software Engineer at [http://deepmind.com/ Google DeepMind] \n
+Former advisor: [http://www.stanford.edu/~boyd/ Professor Stephen Boyd] \n
+\n
+Contact: [bodonoghue85@gmail.com email], [https://www.linkedin.com/in/bodono linkedin], [https://github.com/bodono github]
+~~~
+
+== Education
+- Ph.D., M.S., [http://ee.stanford.edu Electrical Engineering], [http://www.stanford.edu Stanford University],
+  January 2013 \n
+- B.A., M.A., M.Eng., Information and Computer Engineering,
+  [http://www.cai.cam.ac.uk/ Gonville and Caius College],
+  [http://www.cam.ac.uk/ Cambridge University], June 2007
+
+== Interests and current research
+- Convex optimization
+- Machine Learning
+- Dynamic systems and control
+- First order optimization algorithms
