@@ -6,11 +6,7 @@ PHDOCS=$(addprefix html/, $(HDOCS))
 .PHONY: default
 default: docs
 
-.PHONY : docs update
-update : $(PHDOCS)
-	@printf 'Copying to (hidden) server...\n'
-	@rsync -a --delete --copy-unsafe-links *.jemdoc html/* bodono@bodonoghue.org:~/bodonoghue.org/
-	@echo ' done.'
+.PHONY : docs 
 
 docs : $(PHDOCS)
 html/%.html : %.jemdoc MENU
