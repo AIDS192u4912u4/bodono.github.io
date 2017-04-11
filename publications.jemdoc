@@ -7,7 +7,7 @@
 == Publications
 :{[https://arxiv.org/abs/1611.01626 Combining policy gradient and Q-learning]} Brendan O'Donoghue, Remi Munos, Koray Kavukcuoglu, and Volodymyr Mnih
 :{[publications/wireless.pdf Large-scale convex optimization for dense wireless cooperative networks]} Y. Shi, J. Zhang, B. O’Donoghue, and K. Letaief
-:{[http://www.stanford.edu/~boyd/papers/scs.html Operator splitting for conic optimization via homogeneous self-dual embedding]} B. O'Donoghue, E. Chu, N. Parikh, and S. Boyd
+:{[http://www.stanford.edu/~boyd/papers/scs.html Conic Optimization via Operator Splitting and Homogeneous Self-Dual Embedding]} B. O'Donoghue, E. Chu, N. Parikh, and S. Boyd
 :{[http://www.stanford.edu/~boyd/papers/pdos.html A primal-dual operator splitting method for conic optimization]} E. Chu, B. O'Donoghue, N. Parikh, and S. Boyd
 :{[http://www.stanford.edu/~boyd/papers/adp_iter_bellman.html Approximate dynamic programming via iterated Bellman Inequalities]} Y. Wang, B. O'Donoghue, and S. Boyd
 :{[http://www.stanford.edu/~boyd/papers/it_avf.html Iterated approximate value functions]} B. O'Donoghue, Y. Wang, and S. Boyd
