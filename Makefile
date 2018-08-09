@@ -1,16 +1,16 @@
-DOCS=index publications software photography teaching
+DOCS=index publications software photography
 
 HDOCS=$(addsuffix .html, $(DOCS))
 
 .PHONY: default
 default: docs
 
-.PHONY : docs 
+.PHONY : docs
 
 docs : $(HDOCS)
 %.html : %.jemdoc MENU
 	@printf 'Running jemdoc\n'
-	./jemdoc -c bodonoghue.conf -o $@ $< 
+	./jemdoc -c bodonoghue.conf -o $@ $<
 
 .PHONY : clean
 clean :
