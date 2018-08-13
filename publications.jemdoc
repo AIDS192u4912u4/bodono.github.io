@@ -1,9 +1,6 @@
 # jemdoc: menu{MENU}{index.html}, showsource
 = Brendan O'Donoghue
 
-== Ph.D. Thesis
-:{[thesis/bod_thesis.pdf Suboptimal Control Policies via Convex Optimization]} B. O'Donoghue
-
 == Publications
 :{[http://www.stanford.edu/~boyd/papers/nonexp_global_aa1.html Globally Convergent Type-I Anderson Acceleration for Non-Smooth Fixed-Point Iterations]} J. Zhang, B. O'Donoghue, and S. Boyd
 :{[https://arxiv.org/pdf/1807.09647.pdf Variational Bayesian reinforcement learning with regret bounds]} B. O'Donoghue
@@ -22,3 +19,6 @@
 :{[publications/adap_restart.pdf Adaptive restart for accelerated gradient schemes]} B. O'Donoghue and E. J. Candès
 :{[publications/oplc.pdf A spread-return mean-reverting model for credit spread dynamics]} B. O'Donoghue, M. Peacock, J. Lee, and L. Capriotti
 :{[http://www.stanford.edu/~boyd/papers/min_max_adp.html Min-max approximate dynamic programming]} B. O'Donoghue, Y. Wang, and S. Boyd
+
+== Ph.D. Thesis
+:{[thesis/bod_thesis.pdf Suboptimal Control Policies via Convex Optimization]} B. O'Donoghue
