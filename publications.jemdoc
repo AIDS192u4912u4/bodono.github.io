@@ -2,7 +2,7 @@
 = Brendan O'Donoghue
 
 == Publications
-:{[http://www.stanford.edu/~boyd/papers/nonexp_global_aa1.html Globally Convergent Type-I Anderson Acceleration for Non-Smooth Fixed-Point Iterations]} J. Zhang, B. O'Donoghue, and S. Boyd
+:{[http://www.stanford.edu/~boyd/papers/nonexp_global_aa1.html Globally convergent type-I Anderson acceleration for non-smooth fixed-point iterations]} J. Zhang, B. O'Donoghue, and S. Boyd
 :{[https://arxiv.org/pdf/1807.09647.pdf Variational Bayesian reinforcement learning with regret bounds]} B. O'Donoghue
 :{[https://arxiv.org/pdf/1805.10265.pdf Training verified learners with learned verifiers]} K. (Dj) Dvijotham, S. Gowal, R. Stanforth, R. Arandjelovic, B. O'Donoghue, J. Uesato, and P. Kohli
 :{[https://arxiv.org/pdf/1802.05666.pdf Adversarial risk and the dangers of evaluating against weak attacks]} J. Uesato, B. O'Donoghue, A. van den Oord, and P. Kohli
