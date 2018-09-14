@@ -2,12 +2,12 @@
 = Brendan O'Donoghue
 
 == Publications
-:{[https://arxiv.org/pdf/1809.05042 Hamiltonian Descent Methods]} C. J. Maddison, D. Paulin, Y. W. Teh, B. O'Donoghue, and A. Doucet
+:{[https://arxiv.org/abs/1809.05042 Hamiltonian Descent Methods]} C. J. Maddison, D. Paulin, Y. W. Teh, B. O'Donoghue, and A. Doucet
 :{[https://rdcu.be/4sNU Clinically applicable deep learning for diagnosis and referral in retinal disease]} J. De Fauw /et al./
 :{[http://www.stanford.edu/~boyd/papers/nonexp_global_aa1.html Globally convergent type-I Anderson acceleration for non-smooth fixed-point iterations]} J. Zhang, B. O'Donoghue, and S. Boyd
-:{[https://arxiv.org/pdf/1807.09647 Variational Bayesian reinforcement learning with regret bounds]} B. O'Donoghue
-:{[https://arxiv.org/pdf/1805.10265 Training verified learners with learned verifiers]} K. (Dj) Dvijotham, S. Gowal, R. Stanforth, R. Arandjelovic, B. O'Donoghue, J. Uesato, and P. Kohli
-:{[https://arxiv.org/pdf/1802.05666 Adversarial risk and the dangers of evaluating against weak attacks]} J. Uesato, B. O'Donoghue, A. van den Oord, and P. Kohli
+:{[https://arxiv.org/abs/1807.09647 Variational Bayesian reinforcement learning with regret bounds]} B. O'Donoghue
+:{[https://arxiv.org/abs/1805.10265 Training verified learners with learned verifiers]} K. (Dj) Dvijotham, S. Gowal, R. Stanforth, R. Arandjelovic, B. O'Donoghue, J. Uesato, and P. Kohli
+:{[https://arxiv.org/abs/1802.05666 Adversarial risk and the dangers of evaluating against weak attacks]} J. Uesato, B. O'Donoghue, A. van den Oord, and P. Kohli
 :{[https://arxiv.org/abs/1709.05380 The uncertainty Bellman equation and exploration]} B. O'Donoghue, I. Osband, R. Munos, and V. Mnih
 :{[https://arxiv.org/abs/1611.01626 Combining policy gradient and Q-learning]} B. O'Donoghue, R. Munos, K. Kavukcuoglu, and V. Mnih
 :{[publications/wireless.pdf Large-scale convex optimization for dense wireless cooperative networks]} Y. Shi, J. Zhang, B. O’Donoghue, and K. Letaief
