@@ -3,7 +3,8 @@
 
 == Publications
 :{[https://arxiv.org/abs/2004.02177 Operator splitting for a homogeneous embedding of the monotone linear complementarity problem]} B. O'Donoghue
-:{[https://arxiv.org/abs/1906.02608 Hamiltonian descent for composite objectives]} B. O'Donoghue and  C. J. Maddison
+:{[https://arxiv.org/abs/2001.00805 Making sense of reinforcement learning and probabilistic inference]} B. O'Donoghue, I Osband, and C. Ionescu
+:{[https://arxiv.org/abs/1906.02608 Hamiltonian descent for composite objectives]} B. O'Donoghue and C. J. Maddison
 :{[https://debug-ml-iclr2019.github.io/cameraready/DebugML-19_paper_6.pdf Visualizations of decision regions in the presence of adversarial examples]} G. Swirszcz, B. O'Donoghue, and P. Kohli
 :{[https://openreview.net/pdf?id=HyeFAsRctQ Verification of non-linear specifications for neural networks]} C. Qin, K. (Dj) Dvijotham, B. O’Donoghue, R. Bunel, R. Stanforth, S. Gowal, J. Uesato, G. Swirszcz, and P. Kohli
 :{[https://arxiv.org/abs/1811.09300 Strength in numbers: Trading-off robustness and computation via adversarially-trained ensembles]} E. Grefenstette, R. Stanforth, B. O'Donoghue, J. Uesato, G. Swirszcz, and P. Kohli
