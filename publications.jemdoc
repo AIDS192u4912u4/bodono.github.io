@@ -2,6 +2,7 @@
 = Brendan O'Donoghue
 
 == Publications
+:{[https://web.stanford.edu/~boyd/papers/conv_reinforce.html Sample Efficient Reinforcement Learning with REINFORCE]} J. Zhang, J. Kim, B. O'Donoghue, and S. Boyd
 :{[https://arxiv.org/abs/2006.05145 Stochastic matrix games with bandit feedback]} B. O'Donoghue, T. Lattimore, and I. Osband
 :{[https://arxiv.org/abs/2004.02177 Operator splitting for a homogeneous embedding of the monotone linear complementarity problem]} B. O'Donoghue
 :{[https://arxiv.org/abs/2001.00805 Making sense of reinforcement learning and probabilistic inference]} B. O'Donoghue, I Osband, and C. Ionescu
