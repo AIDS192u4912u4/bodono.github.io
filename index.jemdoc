@@ -29,8 +29,8 @@ Contact: [bodonoghue85@gmail.com email], [https://twitter.com/bodonoghue85 twitt
 - [https://github.com/cvxgrp/scs SCS]: C package for solving convex cone problems via operator splitting
 
 == Publications
-:{https://arxiv.org/pdf/2106.00661.pdf Reward is enough for convex MDPs]} T. Zahavy, B. O’Donoghue, G. Desjardins, and S. Singh
-:{https://arxiv.org/pdf/2106.00669.pdf Discovering diverse nearly optimal policies with successor features]} T. Zahavy, B. O’Donoghue, A. Barreto, V. Mnih, S. Flennerhag, and S. Singh
+:{[https://arxiv.org/pdf/2106.00661.pdf Reward is enough for convex MDPs]} T. Zahavy, B. O’Donoghue, G. Desjardins, and S. Singh
+:{[https://arxiv.org/pdf/2106.00669.pdf Discovering diverse nearly optimal policies with successor features]} T. Zahavy, B. O’Donoghue, A. Barreto, V. Mnih, S. Flennerhag, and S. Singh
 :{[https://openreview.net/forum?id=PUkhWz65dy5 Discovering a set of policies for the worst case reward]} T. Zahavy, A. Barreto, D. Mankowitz, S. Hou, B. O'Donoghue, I. Kemaev, and S. Singh
 :{[https://arxiv.org/abs/2012.13349 Solving Mixed Integer Programs Using Neural Networks]} V. Nair, S. Bartunov, F. Gimeno, I. von Glehn, P. Lichocki, I. Lobov, B. O'Donoghue, N. Sonnerat, C. Tjandraatmadja, P. Wang /et al./
 :{[https://web.stanford.edu/~boyd/papers/conv_reinforce.html Sample Efficient Reinforcement Learning with REINFORCE]} J. Zhang, J. Kim, B. O'Donoghue, and S. Boyd
