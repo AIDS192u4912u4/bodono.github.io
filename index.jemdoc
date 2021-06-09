@@ -55,7 +55,7 @@ Contact: [bodonoghue85@gmail.com email], [https://twitter.com/bodonoghue85 twitt
 :{[http://www.stanford.edu/~boyd/papers/adp_iter_bellman.html Approximate dynamic programming via iterated Bellman Inequalities]} Y. Wang, B. O'Donoghue, and S. Boyd
 :{[http://www.stanford.edu/~boyd/papers/it_avf.html Iterated approximate value functions]} B. O'Donoghue, Y. Wang, and S. Boyd
 :{[http://www.stanford.edu/~boyd/papers/oper_splt_ctrl.html A splitting method for optimal control]} B. O'Donoghue, G. Stathopoulos, and S. Boyd
-:{[ftp://ftp.math.ucla.edu/pub/camreport/cam12-35.pdf Fast alternating direction optimization methods]} T. Goldstein, B. O'Donoghue, and S. Setzer
+:{[https://scholarship.rice.edu/bitstream/handle/1911/94752/Optimization-Methods.pdf?sequence=4 Fast alternating direction optimization methods]} T. Goldstein, B. O'Donoghue, S. Setzer, and R. Baraniuk
 :{[http://www.stanford.edu/~boyd/papers/port_opt_bound.html Performance bounds and suboptimal policies for multi-period investment]} S. Boyd, M. Mueller, B. O'Donoghue, and Y. Wang
 :{[publications/adap_restart.pdf Adaptive restart for accelerated gradient schemes]} B. O'Donoghue and E. J. Candès
 :{[publications/oplc.pdf A spread-return mean-reverting model for credit spread dynamics]} B. O'Donoghue, M. Peacock, J. Lee, and L. Capriotti
