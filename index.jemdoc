@@ -29,6 +29,7 @@ Contact: [bodonoghue85@gmail.com email], [https://twitter.com/bodonoghue85 twitt
 - [https://www.cvxgrp.org/scs/ SCS]: C package for solving convex cone problems via operator splitting
 
 == Publications
+:{[http://arxiv.org/abs/2110.15688 Variational Bayesian optimistic sampling]} B. O'Donoghue and T. Lattimore
 :{[https://arxiv.org/abs/2110.04629 Evaluating predictive distributions: does Bayesian deep learning work?]} I. Osband, Z. Wen, S. Asghari, V. Dwaracherla, B. Hao, M. Ibrahimi, D. Lawson, X. Lu, B. O'Donoghue, and B. Van Roy
 :{[http://www.optimization-online.org/DB_HTML/2021/06/8439.html Practical large-scale linear programming using primal-dual hybrid gradient]} D. Applegate, M. Díaz, O. Hinder, H. Lu, M. Lubin, B. O'Donoghue, and W. Schudy
 :{[https://arxiv.org/pdf/2106.00661.pdf Reward is enough for convex MDPs]} T. Zahavy, B. O'Donoghue, G. Desjardins, and S. Singh
