@@ -30,7 +30,7 @@ Contact: [bodonoghue85@gmail.com email], [https://twitter.com/bodonoghue85 twitt
 
 == Publications
 :{[http://arxiv.org/abs/2110.15688 Variational Bayesian optimistic sampling]} B. O'Donoghue and T. Lattimore
-:{[https://arxiv.org/abs/2110.04629 Evaluating predictive distributions: does Bayesian deep learning work?]} I. Osband, Z. Wen, S. Asghari, V. Dwaracherla, B. Hao, M. Ibrahimi, D. Lawson, X. Lu, B. O'Donoghue, and B. Van Roy
+:{[https://arxiv.org/abs/2110.04629 Evaluating predictive distributions: Does Bayesian deep learning work?]} I. Osband, Z. Wen, S. Asghari, V. Dwaracherla, B. Hao, M. Ibrahimi, D. Lawson, X. Lu, B. O'Donoghue, and B. Van Roy
 :{[http://www.optimization-online.org/DB_HTML/2021/06/8439.html Practical large-scale linear programming using primal-dual hybrid gradient]} D. Applegate, M. Díaz, O. Hinder, H. Lu, M. Lubin, B. O'Donoghue, and W. Schudy
 :{[https://arxiv.org/pdf/2106.00661.pdf Reward is enough for convex MDPs]} T. Zahavy, B. O'Donoghue, G. Desjardins, and S. Singh
 :{[https://arxiv.org/pdf/2106.00669.pdf Discovering diverse nearly optimal policies with successor features]} T. Zahavy, B. O'Donoghue, A. Barreto, V. Mnih, S. Flennerhag, and S. Singh
@@ -38,7 +38,7 @@ Contact: [bodonoghue85@gmail.com email], [https://twitter.com/bodonoghue85 twitt
 :{[https://arxiv.org/abs/2012.13349 Solving Mixed Integer Programs Using Neural Networks]} V. Nair, S. Bartunov, F. Gimeno, I. von Glehn, P. Lichocki, I. Lobov, B. O'Donoghue, N. Sonnerat, C. Tjandraatmadja, P. Wang /et al./
 :{[https://web.stanford.edu/~boyd/papers/conv_reinforce.html Sample Efficient Reinforcement Learning with REINFORCE]} J. Zhang, J. Kim, B. O'Donoghue, and S. Boyd
 :{[https://arxiv.org/abs/2006.05145 Matrix games with bandit feedback]} B. O'Donoghue, T. Lattimore, and I. Osband
-:{[https://arxiv.org/abs/2004.02177 Operator splitting for a homogeneous embedding of the monotone linear complementarity problem]} B. O'Donoghue
+:{[publications/quad_scs.pdf Operator splitting for a homogeneous embedding of the monotone linear complementarity problem]} B. O'Donoghue
 :{[https://arxiv.org/abs/2001.00805 Making sense of reinforcement learning and probabilistic inference]} B. O'Donoghue, I Osband, and C. Ionescu
 :{[https://arxiv.org/abs/1906.02608 Hamiltonian descent for composite objectives]} B. O'Donoghue and C. J. Maddison
 :{[https://debug-ml-iclr2019.github.io/cameraready/DebugML-19_paper_6.pdf Visualizations of decision regions in the presence of adversarial examples]} G. Swirszcz, B. O'Donoghue, and P. Kohli
