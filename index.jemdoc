@@ -32,10 +32,10 @@ Contact: [bodonoghue85@gmail.com email], [https://twitter.com/bodonoghue85 twitt
 
 == Journal Articles
 :{[publications/quad_scs.pdf Operator splitting for a homogeneous embedding of the monotone linear complementarity problem]} B. O'Donoghue \n
-/SIAM Journal on Optimization/, 31(3), pp. 1999–2023, August 2021.
+/SIAM Journal on Optimization/, 31(3), pp. 1999-2023, August 2021.
 
 :{[http://www.stanford.edu/~boyd/papers/nonexp_global_aa1.html Globally convergent type-I Anderson acceleration for non-smooth fixed-point iterations]} J. Zhang, B. O'Donoghue, and S. Boyd \n
-/SIAM Journal on Optimization/, 30(4), pp. 3170–3197, November 2020.
+/SIAM Journal on Optimization/, 30(4), pp. 3170-3197, November 2020.
 
 :{[https://rdcu.be/4sNU Clinically applicable deep learning for diagnosis and referral in retinal disease]} J. De Fauw, /et al./ \n
 /Nature medicine/, 24(9), pp. 1342-1350, August 2018.
@@ -43,7 +43,7 @@ Contact: [bodonoghue85@gmail.com email], [https://twitter.com/bodonoghue85 twitt
 :{[http://www.stanford.edu/~boyd/papers/scs.html Conic optimization via operator splitting and homogeneous self-dual embedding]} B. O'Donoghue, E. Chu, N. Parikh, and S. Boyd \n
 /Journal of Optimization Theory and Applications/, 169(3), pp. 1042-1068, June 2016.
 
-:{[publications/wireless.pdf Large-scale convex optimization for dense wireless cooperative networks]} Y. Shi, J. Zhang, B. O’Donoghue, and K. Letaief \n
+:{[publications/wireless.pdf Large-scale convex optimization for dense wireless cooperative networks]} Y. Shi, J. Zhang, B. O'Donoghue, and K. Letaief \n
 /IEEE Transactions on Signal Processing/, 63(18), pp. 4729-4743, September 2015.
 
 :{[http://www.stanford.edu/~boyd/papers/adp_iter_bellman.html Approximate dynamic programming via iterated Bellman Inequalities]} Y. Wang, B. O'Donoghue, and S. Boyd \n
