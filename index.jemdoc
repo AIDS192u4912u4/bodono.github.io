@@ -66,6 +66,9 @@ Contact: [bodonoghue85@gmail.com email], [https://twitter.com/bodonoghue85 twitt
 /IEEE Transactions on Control Systems Technology/, 21(6), pp. 2432-2442, November 2013.
 
 == Conference Articles
+:{[https://arxiv.org/abs/2110.04629 The Neural Testbed: Evaluating Joint Predictions]} I. Osband, Z. Wen, S. Asghari, V. Dwaracherla, B. Hao, M. Ibrahimi, D. Lawson, X. Lu, B. O'Donoghue, and B. Van Roy \n
+/Advances in Neural Information Processing Systems (NeurIPS)/, 2022.
+
 :{[http://arxiv.org/abs/2110.15688 Variational Bayesian optimistic sampling]} B. O'Donoghue and T. Lattimore \n
 *Spotlight* /Advances in Neural Information Processing Systems (NeurIPS)/, 2021.
 
@@ -115,8 +118,8 @@ Contact: [bodonoghue85@gmail.com email], [https://twitter.com/bodonoghue85 twitt
 /Proceedings IEEE Multi-Conference on Systems and Control/, pp. 424-431, September 2011.
 
 == Other
-:{[https://arxiv.org/abs/2110.04629 Evaluating predictive distributions: Does Bayesian deep learning work?]} I. Osband, Z. Wen, S. Asghari, V. Dwaracherla, B. Hao, M. Ibrahimi, D. Lawson, X. Lu, B. O'Donoghue, and B. Van Roy \n
-In Submission, 2021.
+:{[https://arxiv.org/abs/2210.12160 On the connection between Bregman divergence and value in regularized Markov decision processes]} B. O'Donoghue \n
+Technical note, 2022.
 
 :{[https://arxiv.org/abs/2012.13349 Solving Mixed Integer Programs Using Neural Networks]} V. Nair\*, S. Bartunov\*, F. Gimeno\*, I. von Glehn\*, P. Lichocki\*, I. Lobov\*, B. O'Donoghue\*, N. Sonnerat\*, C. Tjandraatmadja\*, P. Wang\*, /et al./ \n
 (\* Equal contribution). In Submission, 2021.
