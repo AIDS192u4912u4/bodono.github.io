@@ -118,26 +118,29 @@ Contact: [bodonoghue85@gmail.com email], [https://twitter.com/bodonoghue85 twitt
 /Proceedings IEEE Multi-Conference on Systems and Control/, pp. 424-431, September 2011.
 
 == Other
+:{[https://arxiv.org/abs/2212.14530 POMRL: No-regret learning-to-plan with increasing horizons]} K. Khetarpal, C. Vernade, B. O'Donoghue, S. Singh, T. Zahavy \n
+Working draft, 2022.
+
 :{[https://arxiv.org/abs/2210.12160 On the connection between Bregman divergence and value in regularized Markov decision processes]} B. O'Donoghue \n
 Technical note, 2022.
 
-:{[https://arxiv.org/abs/2012.13349 Solving Mixed Integer Programs Using Neural Networks]} V. Nair\*, S. Bartunov\*, F. Gimeno\*, I. von Glehn\*, P. Lichocki\*, I. Lobov\*, B. O'Donoghue\*, N. Sonnerat\*, C. Tjandraatmadja\*, P. Wang\*, /et al./ \n
-(\* Equal contribution). In Submission, 2021.
+:{[https://arxiv.org/abs/2012.13349 Solving mixed integer programs using neural networks]} V. Nair\*, S. Bartunov\*, F. Gimeno\*, I. von Glehn\*, P. Lichocki\*, I. Lobov\*, B. O'Donoghue\*, N. Sonnerat\*, C. Tjandraatmadja\*, P. Wang\*, /et al./ \n
+(\* Equal contribution). In submission, 2021.
 
 :{[https://arxiv.org/pdf/2106.00669.pdf Discovering diverse nearly optimal policies with successor features]} T. Zahavy, B. O'Donoghue, A. Barreto, V. Mnih, S. Flennerhag, and S. Singh \n
-Working Draft, 2021.
+Working draft, 2021.
 
 :{[https://arxiv.org/abs/1811.09300 Strength in numbers: Trading-off robustness and computation via adversarially-trained ensembles]} E. Grefenstette, R. Stanforth, B. O'Donoghue, J. Uesato, G. Swirszcz, and P. Kohli \n
-Working Draft, 2018.
+Working draft, 2018.
 
 :{[https://arxiv.org/abs/1809.05042 Hamiltonian descent methods]} C. J. Maddison, D. Paulin, Y. W. Teh, B. O'Donoghue, and A. Doucet \n
-Working Draft, 2018.
+Working draft, 2018.
 
 :{[https://arxiv.org/abs/1805.10265 Training verified learners with learned verifiers]} K. (Dj) Dvijotham, S. Gowal, R. Stanforth, R. Arandjelovic, B. O'Donoghue, J. Uesato, and P. Kohli \n
-Working Draft, 2018.
+Working draft, 2018.
 
 :{[http://www.stanford.edu/~boyd/papers/pdos.html A primal-dual operator splitting method for conic optimization]} E. Chu, B. O'Donoghue, N. Parikh, and S. Boyd \n
-/Stanford Internal Report/, (2013).
+/Stanford internal report/, (2013).
 
 == Ph.D. Thesis
-:{[thesis/bod_thesis.pdf Suboptimal Control Policies via Convex Optimization]} B. O'Donoghue
+:{[thesis/bod_thesis.pdf Suboptimal control policies via convex optimization]} B. O'Donoghue
