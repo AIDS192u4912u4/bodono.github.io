@@ -32,7 +32,7 @@ Contact: [bodonoghue85@gmail.com email], [https://twitter.com/bodonoghue85 twitt
 
 == Journal Articles
 :{[https://arxiv.org/abs/2212.14530 POMRL: No-regret learning-to-plan with increasing horizons]} K. Khetarpal, C. Vernade, B. O'Donoghue, S. Singh, and T. Zahavy \n
-/Transactions on Machine Learning Research/, 2023. 
+/Transactions on Machine Learning Research (TMLR)/, 2023.
 
 :{[publications/quad_scs.pdf Operator splitting for a homogeneous embedding of the monotone linear complementarity problem]} B. O'Donoghue \n
 /SIAM Journal on Optimization/, 31(3), pp. 1999-2023, August 2021.
@@ -69,14 +69,17 @@ Contact: [bodonoghue85@gmail.com email], [https://twitter.com/bodonoghue85 twitt
 /IEEE Transactions on Control Systems Technology/, 21(6), pp. 2432-2442, November 2013.
 
 == Conference Articles
+:{[https://arxiv.org/abs/2311.13294 Probabilistic inference in reinforcement learning done right]} J. Tarbouriech, T. Lattimore, and B. O'Donoghue \n
+/Advances in Neural Information Processing Systems (NeurIPS)/, 2023.
+
+:{[https://arxiv.org/abs/2301.03236 Optimistic meta-gradients]} S. Flennerhag, T. Zahavy, B. O'Donoghue, H. van Hasselt, A. György, and S. Singh \n
+/Advances in Neural Information Processing Systems (NeurIPS)/, 2023.
+
 :{[http://arxiv.org/abs/2302.09339 Efficient exploration via epistemic-risk-seeking policy optimization]} B. O'Donoghue \n
 /Proceedings of the International Conference on Machine Learning (ICML)/, 2023.
 
 :{[https://arxiv.org/abs/2302.01275 ReLOAD: Reinforcement learning with optimistic ascent-descent for last-iterate convergence in constrained MDPs]} T. Moskovitz, B. O'Donoghue, V. Veeriah, S. Flennerhag, S. Singh, and T. Zahavy \n
 /Proceedings of the International Conference on Machine Learning (ICML)/, 2023.
-
-:{[https://openreview.net/forum?id=mrhnstiuke2 Optimistic meta-gradients]} S. Flennerhag, T. Zahavy, B. O'Donoghue, H. van Hasselt, A. György, and S. Singh \n
-/Workshop on Meta-Learning/, NeurIPS, 2022.
 
 :{[https://arxiv.org/abs/2110.04629 The neural testbed: Evaluating joint predictions]} I. Osband, Z. Wen, S. Asghari, V. Dwaracherla, B. Hao, M. Ibrahimi, D. Lawson, X. Lu, B. O'Donoghue, and B. Van Roy \n
 /Advances in Neural Information Processing Systems (NeurIPS)/, 2022.
